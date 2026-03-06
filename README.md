@@ -7,6 +7,7 @@ Burgers, power-ups, and sneaky obstacles rain down from the night sky above
 a glowing city skyline. Move the panda left and right to catch every burger 
 before it hits the ground — but dodge the veggies and junk!
 
+
 ## 🎮 Gameplay Preview
 
 ![Hungry Panda Gameplay](gameplay.gif)
