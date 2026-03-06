@@ -29,10 +29,8 @@ before it hits the ground — but dodge the veggies and junk!
 - HTML5 Canvas
 - Vanilla JavaScript
 - CSS3
+- 
 ```
-
- Save it (Ctrl+S)
-
 Your folder should now look like this:
 
 hungry-panda-game/<br>
