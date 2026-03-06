@@ -1,7 +1,7 @@
 # 🐼 Hungry Panda — Catch the Burgers!
 
 Hungry Panda is a fun and addictive browser-based catching game where you 
-control an adorable panda on a mission to eat as many burgers as possible!
+control a panda on a mission to eat as many burgers as possible!
 
 Burgers, power-ups, and sneaky obstacles rain down from the night sky above 
 a glowing city skyline. Move the panda left and right to catch every burger 
@@ -20,8 +20,8 @@ before it hits the ground — but dodge the veggies and junk!
 - Speed ramps up as your score increases
 - Personal best tracker
 
-## 🚀 Play it Live
-[Click here to play](https://YOUR_USERNAME.github.io/hungry-panda-game/)
+## Play it Live
+[Click here to play](https://gayathrii3.github.io/hungry-panda-game/)
 
 ## 🛠️ Built With
 - HTML5 Canvas
@@ -29,10 +29,11 @@ before it hits the ground — but dodge the veggies and junk!
 - CSS3
 ```
 
-4. Save it (Ctrl+S)
+ Save it (Ctrl+S)
 
 Your folder should now look like this:
-```
-hungry-panda-game/
-├── index.html
+
+hungry-panda-game/<br>
+├── index.html<br>
 └── README.md
+```
