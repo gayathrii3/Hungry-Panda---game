@@ -25,9 +25,6 @@ before it hits the ground — but dodge the veggies and junk!
 - Speed ramps up as your score increases
 - Personal best tracker
 
-## Play it Live
-[Click here to play](https://gayathrii3.github.io/hungry-panda-game/)
-
 ## 🛠️ Built With
 - HTML5 Canvas
 - Vanilla JavaScript
